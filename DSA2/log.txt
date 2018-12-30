@@ -1,0 +1,13 @@
+18/12/2018 09:04:31 - ERROR at: Push - Input string was not in a correct format.
+INPUT: 
+Album: 
+Artist: 
+No of Tracks: 
+Duration: 
+
+18/12/2018 10:11:36 - ERROR at: Remove - An item must be selected before it can remove.
+
+18/12/2018 10:12:08 - ERROR at: Remove - An item must be selected before it can remove.
+
+18/12/2018 10:12:53 - ERROR at: Remove - An item must be selected before it can remove.
+
